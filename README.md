@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmmarHasan688
 - 👀 I’m interested in How Programmes and web Apps Works
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android App with rich code work
+- 🌱 I’m currently A Flutter Developer, previously a Koltin Programmer for 2 yrs
+- 💞️ I’m looking to collaborate on cross platform App with rich code work
 - 📫 How to reach me ammarhasan174@gmail.com
 
 <!---
